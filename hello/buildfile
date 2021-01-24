@@ -1,5 +1,4 @@
-libs =
-#import libs += libhello%lib{hello}
+import libs += libhello%lib{hello}
 
 exe{hello}: {hxx ixx txx cxx}{**} $libs testscript
 

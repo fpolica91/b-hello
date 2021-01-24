@@ -8,4 +8,4 @@ url: https://example.org/hello
 email: fabriciopolicarpo0@gmail.com
 depends: * build2 >= 0.13.0
 depends: * bpkg >= 0.13.0
-#depends: libhello ^1.0.0
+depends: libhello ^1.0.0
